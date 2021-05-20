@@ -51,7 +51,7 @@ import java.security.cert.X509Certificate;
  * Class used to add the server's certificate to the KeyStore
  * with your trusted certificates.
  */
-public class InstallCert {
+public class GenerateCert {
 
     public static void main(String[] args) throws Exception {
 
